@@ -30,6 +30,7 @@ This exercise focuses on the last part of the project, in which we've created a 
 ![Total Fares by City Type](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig5.png)
 ![Total Rides by City Type](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig6.png)
 ![Total Drivers by City Type](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig7.png)
+![Total Fare by City Type line](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
 For further exploration, it would be interesting to join our data city/community population figures and then generate "drivers per capita" figures to get a better feel for the ridesharing access relative to community populations. That said we can draw pretty good conclusions from 
