@@ -7,11 +7,11 @@ For this project, we've been taking a close look at ridesharing datasets, and cr
 This exercise focuses on the last part of the project, in which we've created a summary DataFrame of the ridesharing data by city type. We've also created a multiple-line graph that shows total weekly fares for each city type during the first four months of 2019. Below, we'll describe the differences in the data across city types, and make recommendations to the CEO for addressing these disparities. 
 
 ## Resources
-* Data Sources: 
+* Data Sources:  
     city_data.csv  
     ride_data.csv  
 
-* Software: 
+* Software:  
     Python 3.7.6  
     Pandas library  
     Matplotlib version 3.2.2  
@@ -24,8 +24,12 @@ This exercise focuses on the last part of the project, in which we've created a 
 <br/>
 
 ![Ride Count Data (2019)](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig2.png)
-
-
+![Ride-Sharing Data (2019)](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/2019%20City%20Type%20Rides%20v%20Fares%20Bubble%20Chart.png)
+![Average Fares](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Average%20Fares.png)
+![Ride Fare Data(2019)](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig3.png)
+![Total Fares by City Type](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig5.png)
+![Total Rides by City Type](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig6.png)
+![Total Drivers by City Type](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 ## Summary
 For further exploration, it would be interesting to join our data city/community population figures and then generate "drivers per capita" figures to get a better feel for the ridesharing access relative to community populations. That said we can draw pretty good conclusions from 
