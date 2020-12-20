@@ -37,7 +37,7 @@ Here are a few key observations:
 * Average fares per ride are highest in rural areas, followed by suburban cities, and finally urban communities.
 * Note the *extremely* wide gap between average fares for urban drivers versus rural drivers.
 
-The bubble chart below plots each city's average fare against total rides, with bubble sizes adding a third dimension by expressing driver counts. This visualization highlights the inverse relationship (observe how the data form a downward sloping line from the top left of the chart to bottom right) between average fares on one hand, and rides/drivers on the other.
+The bubble chart below plots each city's average fare against total rides, with bubble sizes adding a third dimension by expressing driver counts. This visualization highlights the inverse relationship (observe how the data form a downward sloping line, and how the bubble sizes increase, from the top left of the chart to bottom right) between average fares on one hand, and rides/drivers on the other.
 
 ![Ride-Sharing Data (2019)](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/2019%20City%20Type%20Rides%20v%20Fares%20Bubble%20Chart.png)
 
