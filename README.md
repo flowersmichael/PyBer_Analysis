@@ -24,16 +24,18 @@ Earlier in our analysis, it quickly became clear that of our city types, urban c
 
 It would be helpful to join our data with city/community population figures and then generate "drivers per capita" figures to get a better feel for the relative ridesharing access for different city types. That said, even without that data, we can draw pretty good conclusions about access and affordability from fare data.
 
-![Ride-Sharing Data (2019)](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/2019%20City%20Type%20Rides%20v%20Fares%20Bubble%20Chart.png)
+![Ride Fare Data(2019)](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig3.png)
 
-From the chart above it's apparent that 
+From the chart above it's apparent that PyBer is most affordable for urban passengers, followed by suburban and finally rural riders. This suggests that driver supply is not meeting rider demand in rural, and to a lesser extent, suburban areas, as well as it is in urban communities.
+
+
+![Ride-Sharing Data (2019)](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/2019%20City%20Type%20Rides%20v%20Fares%20Bubble%20Chart.png)
 
 
 * <br/>
 <br/>
 <br/>
 ![Average Fares](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Average%20Fares.png)
-![Ride Fare Data(2019)](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig3.png)
 ![Total Fares by City Type](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig5.png)
 ![Total Rides by City Type](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig6.png)
 ![Total Drivers by City Type](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig7.png)
