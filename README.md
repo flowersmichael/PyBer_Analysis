@@ -28,17 +28,16 @@ It would be helpful to join our data with city/community population figures and 
 
 From the chart above it's apparent that PyBer is most affordable for urban passengers, followed by suburban and finally rural riders. This suggests that driver supply is not meeting rider demand in rural, and to a lesser extent, suburban areas, as well as it is in urban communities.
 
-The bubble charet below highlights the inverse relationship between average fares on one hand, and rides/drivers on the other. 
-
-![Ride-Sharing Data (2019)](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/2019%20City%20Type%20Rides%20v%20Fares%20Bubble%20Chart.png)
-
-
-* <br/>
-<br/>
-<br/>
+The table below shows the average fares per ride and driver. In particular, note the wide gap between average fares for urban versus rural drivers.
 
 ![Average Fares](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Average%20Fares.png)
 
+
+The bubble chart below plots each city's average fare against total rides, with bubble sizes also expressing driver counts. This visualization highlights the inverse relationship between average fares on one hand, and rides/drivers on the other. 
+
+![Ride-Sharing Data (2019)](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/2019%20City%20Type%20Rides%20v%20Fares%20Bubble%20Chart.png)
+
+For our final exercise, we looked closely at the first four months of 2019. This subset of the data demonstrates that the total fares of each city type, relative to each other, generally didn't change much on a week-to-week basis between January and April of 2019.
 
 ![Total Fare by City Type line](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
