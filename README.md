@@ -28,23 +28,32 @@ It would be helpful to join our data with city/community population figures and 
 
 From the chart above it's apparent that PyBer is most affordable for urban passengers, followed by suburban and finally rural riders. This suggests that driver supply is not meeting rider demand in rural, and to a lesser extent, suburban areas, as well as it is in urban communities.
 
-The table below shows the average fares per ride and driver. In particular, note the wide gap between average fares for urban versus rural drivers.
+The table below shows the average fares per ride and driver...
 
 ![Average Fares](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Average%20Fares.png)
+
+Here are a few key observations:
+* There are more total drivers than rides in urban areas.
+* Average fares per ride are highest in rural areas, followed by suburban cities, and finally urban communities.
+* Note the *extremely* wide gap between average fares for urban drivers versus rural drivers.
 
 
 The bubble chart below plots each city's average fare against total rides, with bubble sizes also expressing driver counts. This visualization highlights the inverse relationship between average fares on one hand, and rides/drivers on the other. 
 
 ![Ride-Sharing Data (2019)](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/2019%20City%20Type%20Rides%20v%20Fares%20Bubble%20Chart.png)
 
-For our final exercise, we looked closely at the first four months of 2019. This subset of the data demonstrates that the total fares of each city type, relative to each other, generally didn't change much on a week-to-week basis between January and April of 2019.
-
+We also looked closely at the first four months of 2019. See the line chart below: 
 ![Total Fare by City Type line](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-## Summary
+This subset of the data demonstrates that the total fares of each city type, relative to each other, generally didn't change much on a week-to-week basis between January and April of 2019.
 
+## Summary and Recommendations
 
+From our analysis of PyBer's ridesharing data from 2019, it's clear that rural passengers' average fares are highest, followed by suburban passenger fares and finally urban rider. One key piece of data that we don't have is the length and duration of each ride. The average fares might be high in rural areas because the rides tend to be longer in distance and duration. Based on the data we have, however, I would make the following recommendations to the CEO:
 
-### Recommendations
-* Provide incentives for drivers and passengers in rural areas
-* Provide incentives for drivers and passengers in suburban areas
+1. Adjust ride rates in rural areas, and/or provide discounts and incentives for passengers in rural areas. The high fares up to this point have likely discouraged people from trying and continuing to use PyBer for transportation.
+
+2. Recruit drivers in rural areas, either by incentivizing urban drivers to work in rural areas, or recruiting new drivers in rural areas. Current drivers in rural areas are likely happier with their income than urban and suburban drivers. They are enjoying significantly higher average fares than their urban counterparts in particular. This is good for rural drivers, but the data suggests that PyBer needs to increase the supply of rural drivers. Perhaps they can incentivize urban drivers to target rural areas. It also might be wise to offer strong referral bonuses to rural drivers, as they know who among their contacts might be good driver candidates in their communities.
+
+3. Adopt these recommendations for suburban areas as well, but to a lesser extent.
+
