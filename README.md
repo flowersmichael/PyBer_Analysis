@@ -54,5 +54,5 @@ From our analysis of PyBer's ridesharing data from 2019, it's clear that rural p
 
 2. Recruit drivers in rural areas, either by incentivizing urban drivers to work in rural areas, or recruiting new drivers in rural areas. Current drivers in rural areas are likely happier with their income than urban and suburban drivers. They are enjoying significantly higher average fares than their urban counterparts in particular. This is good for rural drivers, but the data suggests that PyBer needs to increase the supply of rural drivers in order to make rides more affordable for passengers. Perhaps PyBer can incentivize urban drivers that live somewhat close to rural areas to target rural areas. It also might be wise to offer strong referral bonuses to rural drivers, as they know who among their contacts might be good driver candidates in their communities.
 
-3. Adopt these recommendations for suburban areas as well, but to a lesser extent.
+3. Adopt these rural-area recommendations for suburban areas as well, but to a lesser extent.
 
