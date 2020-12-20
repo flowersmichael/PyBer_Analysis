@@ -36,13 +36,9 @@ The bubble charet below highlights the inverse relationship between average fare
 * <br/>
 <br/>
 <br/>
+
 ![Average Fares](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Average%20Fares.png)
 
-![Total Fares by City Type](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig5.png)
-
-![Total Rides by City Type](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig6.png)
-
-![Total Drivers by City Type](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 ![Total Fare by City Type line](https://github.com/flowersmichael/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
